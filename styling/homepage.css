@@ -21,6 +21,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  transition: 0.3s;
 }
 
 .navbar a:hover {
@@ -49,12 +50,14 @@ button {
   color:#f2f2f2;
   opacity: 1;
   transition: 0.3s;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 button:hover {
   cursor: pointer;
   opacity: 0.8;
   background-color: #F7BF50;
+  color:#333;
 }
 
 #button1 {
