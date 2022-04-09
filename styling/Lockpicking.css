@@ -40,3 +40,24 @@ body {
     height: 100px;
     padding-top: 40px;
   }
+
+.one {
+  position: relative;
+  bottom: 100px;
+  width: 400px;
+  height: 200px;
+}
+
+.two {
+  position: relative;
+  width: 400px;
+  height: 300px;
+}
+
+p {
+  font-size: 19px;
+}
+
+u {
+  font-size: 19px;
+}
